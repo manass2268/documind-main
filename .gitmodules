@@ -1,0 +1,6 @@
+[submodule "documind-frontend"]
+	path = documind-frontend
+	url = https://github.com/manass2268/documind-frontend
+[submodule "documind-backend"]
+	path = documind-backend
+	url = https://github.com/manass2268/documind-backend
